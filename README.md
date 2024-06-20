@@ -1,3 +1,2 @@
 # stepik_auto_tests_course
-home work
-123
+here you can find my homework from stepik course
